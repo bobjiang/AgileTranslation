@@ -29,11 +29,17 @@ xxx/ - xxx是独立的一本电子书
 1. 到issue中找到自己感兴趣的文章
 2. 下面留言领取本篇文章
 3. fork [敏捷翻译社仓库](https://github.com/bobjiang/AgileTranslation/)
-4. 本地仓库新建分支，分支名字如`translating/issue-name.md`，
-5. 在articles目录内新建issue-name.md文件。文件名以issue的名字一致。例如\<issue_name\>.md
-6. 在上述文件内进行翻译，翻译完成后，提交到本地仓库分支
-7. 发起一个pull request, 从刚才新建的分支（translating/issue-name.md）merge到敏捷翻译社仓库的translating分支
-8. 至此，翻译结束。如果审校完需要修改的地方，会再次修改后重新提交。  
+   1. 本地仓库新建分支，分支名字如`translating/issue-name.md`，
+   2. 在articles目录内新建issue-name.md文件。文件名以issue的名字一致。例如\<issue_name\>.md
+   3. 在上述文件内进行翻译，翻译完成后，提交到本地仓库分支
+   4. 发起一个pull request, 从刚才新建的分支（translating/issue-name.md）merge到敏捷翻译社仓库的translating分支
+   5. 至此，翻译结束。如果审校完需要修改的地方，会再次修改后重新提交。  
+4. branch (不熟练fork的小伙伴，看这里)
+   1. clone bobjiang/AgileTranslation [敏捷翻译社仓库](https://github.com/bobjiang/AgileTranslation/) 到本地；
+   2. 按目录要求，在合适的目录，新建issue-name.md文件。文件名以issue的名字一致。例如\<issue_name\>.md；
+   3. 在上述文件内翻译，完成后，提交到translating分支；
+   4. issue状态更新到“审核中”，审核完有需要修改的地方，修改后再次提交到translating分支；
+   5. 管理员会对不同branch分支，根据需要设置权限和Pull Request要求；
 
 ### 审校
 1. 到pull request打开open状态的pull request
