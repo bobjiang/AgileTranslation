@@ -11,7 +11,7 @@ Approximately half of respondents – 53 percent – report current involvement in
 报告中提到，大约一半的调查对象(53%)目前在敏捷转型的组织中工作，而那些没有在这样组织中工作的人中，56%认为将会在未来加入其中。
 
 “The future is Agile,” said Scrum Alliance interim CEO, Lisa W. Hershman. “It’s more exciting than surprising to see a majority of respondents either involved in or anticipating Agile transformations. It’s something that’s been in the collective subconscious of the business world for years now.”
-Scrum联盟临时CEO，Lisa W. Hershman说，“未来将会是敏捷的。”，“看到被调查者的大部分都已经加入并期待敏捷转型这样的现象，对我们来说会感到更加的兴奋。这说明这些年来，敏捷转型已经成为商业社会中的一种集体潜意识。”
+Scrum联盟代理CEO，Lisa W. Hershman说，“未来将会是敏捷的。”，“看到被调查者的大部分都已经加入并期待敏捷转型这样的现象，对我们来说会感到更加的兴奋。这说明这些年来，敏捷转型已经成为商业社会中的一种集体潜意识。”
 
 Respondents reported the primary catalyst for implementing a full-scale Agile transformation was the issue of process. As digital transformation has steadily increased demand for faster turnarounds, user-friendly platforms and flexible goals, modern business demands ever more Agile workflows.
 被调查者认为，在实施全面的敏捷转型过程中，首要考虑的因素是流程问题。随着企业的数字化转型，对快速周转、友好用户体验的平台、灵活的目标的需求稳定增加、现代商业更加需要敏捷的工作流程，
